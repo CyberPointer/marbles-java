@@ -35,7 +35,7 @@ Example of not centrall collision when marbles are not facing each other.
 
 ![Algorithm schema](./images/collision_1.jpg)
 
-Situation becomes more complex when 2d marbles are colliding facing each other. To solve that problem, equation to calculate the momentum with additonal angle of reflection is being used.
+Situation becomes more complex when 2d marbles are colliding while facing each other. To solve that problem, equation to calculate the momentum with additonal angle of reflection is being used.
 
 ![Algorithm schema](./images/calculation_momentum.jpg)
 
