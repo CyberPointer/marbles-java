@@ -35,7 +35,8 @@ Situation becomes more complex when 2d marbles are colliding facing each other. 
 
 ![Algorithm schema](./images/calculation_momentum.jpg)
 
-##Examples 
+## Examples 
+
 ![Example](./images/program_on_1.jpg)
 
 ![Example](./images/program_on_2.jpg)
