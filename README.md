@@ -42,3 +42,5 @@ Situation becomes more complex when 2d marbles are colliding facing each other. 
 ![Example](./images/program_on_2.jpg)
 
 ![Example](./images/program_on_setting_vector.jpg)
+In order to set marble moving vector user can hover mouse over chosen marble, then press left mouse button and arrow will pop up that will allow to chose direction.
+Second option is to input raw data in right section of interface.
