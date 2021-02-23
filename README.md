@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Algorithms](#algorithms)
-* [Program example(#examples)
+* [Program example](#examples)
 
 
 ## General info
