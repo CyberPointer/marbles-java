@@ -5,6 +5,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Algorithms](#algorithms)
+* [Program example(#examples)
 
 
 ## General info
@@ -34,3 +35,9 @@ Situation becomes more complex when 2d marbles are colliding facing each other. 
 
 ![Algorithm schema](./images/calculation_momentum.jpg)
 
+##Examples 
+![Example](./images/program_on.jpg)
+
+![Example](./images/program_on2.jpg)
+
+![Example](./images/program_setting_vector.jpg)
