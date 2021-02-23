@@ -11,7 +11,7 @@
 	
 ## Technologies
 Project is created with:
-* Java 7
+* Java 
 * Swing
 * Awt
 	
