@@ -18,4 +18,4 @@ Project is created with:
 * Netbeans
 
 ## Algorithms
-![Algorithm schema](./images/schema.jpg)
+![Algorithm schema](./images/circle_not_central.png)
