@@ -21,6 +21,10 @@ Project is created with:
 
 ![Algorithm schema](./images/circle_not_central.png)
 
-![Algorithm schema](./images/colilsion_wall.jpeg)
+![Algorithm schema](./images/collision_wall.jpg)
 
 ![Algorithm schema](./images/collision_not_central.jpg)
+
+![Algorithm schema](./images/collision_1.jpg)
+
+![Algorithm schema](./images/collision_2.jpg)
