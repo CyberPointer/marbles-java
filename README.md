@@ -18,4 +18,9 @@ Project is created with:
 * Netbeans
 
 ## Algorithms
+
 ![Algorithm schema](./images/circle_not_central.png)
+
+![Algorithm schema](./images/colilsion_wall.jpeg)
+
+![Algorithm schema](./images/collision_not_central.jpeg)
