@@ -47,7 +47,7 @@ GUI presentation.
 
 ![Example](./images/program_on_setting_vector.jpg)
 
-In order to set marble's moving vector user can hover with mouse over chosen marble, then press left mouse button and arrow will pop up that will allow to chose direction, as in the example above.
+In order to specify marble's moving vector user can hover with mouse over chosen marble, then press left mouse button and arrow will pop up that will allow to chose direction, as in the example above.
 
 
 ![Example](./images/program_on_2.jpg)
