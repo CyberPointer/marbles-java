@@ -7,7 +7,7 @@
 
 
 ## General info
-2d simulation of dynamic size moving marbles in closed frame with collision detection. Implemented with java, swing, awt. 
+2D Moving marbles simulation with collision detection.
 	
 ## Technologies
 Project is created with:
