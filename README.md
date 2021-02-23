@@ -23,4 +23,4 @@ Project is created with:
 
 ![Algorithm schema](./images/colilsion_wall.jpeg)
 
-![Algorithm schema](./images/collision_not_central.jpeg)
+![Algorithm schema](./images/collision_not_central.jpg)
